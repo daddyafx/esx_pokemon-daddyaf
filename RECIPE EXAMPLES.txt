@@ -1,0 +1,56 @@
+I currently use this with "Modfreakz Crafting"
+
+["boulderBadge"] = {
+    "graveler",       "rhyhorn",  "omastar",
+    "kabutops",  "onix",      "geodude",
+     false,         false,      false,
+  },
+
+
+  ["cascadeBadge"] = {
+    "blastoise",       "starmie",  "psyduck",
+    "lapras",  "golduck",      "togepi",
+     false,         false,      false,
+  },
+
+  ["thunderBadge"] = {
+    "zapdos",       "pikachu",  "raichu",
+    "electabuzz",  "electrode",      "magneton",
+     false,         false,      false,
+  },
+
+  ["rainbowBadge"] = {
+    "victreebel",       "tangela",  "vileplume",
+    "weepinbell",  "bellsprout",      "venusaur",
+     false,         false,      false,
+  },
+
+  ["soulBadge"] = {
+    "koffing",       "weezing",  "muk",
+    "venonat",  "venomoth",      "golbat",
+     false,         false,      false,
+  },
+
+  ["marshBadge"] = {
+    "alakazam",       "mr_mime",  "abra",
+    "kadabra",  "hypno",      "jynx",
+     false,         false,      false,
+  },
+
+  ["volcanoBadge"] = {
+    "arcanine",       "rapidash",  "ninetales",
+    "magmar",  "charizard",      "moltres",
+     false,         false,      false,
+  },
+
+  ["earthBadge"] = {
+    "rhydon",       "nidoking",  "nidoqueen",
+    "mewtwo",  "dugtrio",      "persian",
+     false,         false,      false,
+  },
+
+  ["trophyBadge"] = {
+    "boulderBadge",       "cascadeBadge",  "thunderBadge",
+    "rainbowBadge",  "soulBadge",      "marshBadge",
+     "volcanoBadge",  "earthBadge",     false,
+  },
